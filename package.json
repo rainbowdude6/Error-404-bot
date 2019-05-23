@@ -1,0 +1,14 @@
+{
+  "name": "error404bot",
+  "version": "0.0.1",
+  "description": "Error 404's personal discord bot. PM me on discord at Error 404#9495 and give me suggestions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Error 404#9495",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.0"
+  }
+}
